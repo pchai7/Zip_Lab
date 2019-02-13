@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=payDay
+comment0.text=\n\ Write\ a\ description\ of\ class\ payDay\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=name\ hoursWorked\ deductionRate\ PayRate
+comment1.target=java.lang.String\ sampleMethod(java.lang.String,\ double,\ double,\ double)
+comment1.text=\n\ \n
+numComments=2
